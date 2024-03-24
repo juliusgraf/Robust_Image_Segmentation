@@ -1,4 +1,4 @@
-# Robust_Image_Segmentation
+# Robust Image Segmentation Project w/ OPIS Inria group
 
 **As part of the CentraleSupélec Data Science Project Group, I collaborated with three peers under the esteemed guidance of Prof. Jean-Christophe Pesquet and Matthieu Terris from the Centre de Vision Numérique, OPIS Inria group at Université Paris-Saclay. We tackled a challenge crucial for both healthcare and technology sectors: making computer-driven image segmentation more reliable and robust, especially in medical diagnostics. This initiative was inspired by the critical need to bolster neural network resilience against adversarial perturbations, a challenge highlighted in foundational research. From February 2023 to January 2024, we hence embarked on a pioneering project focused on implementing Lipschitz regularization in neural networks for segmentation tasks to achieve stable firm non-expansiveness.**
 
